@@ -11,11 +11,9 @@
   <div style="display:grid; grid-template-columns: repeat(2, minmax(360px, 1fr)); gap:12px; align-items:start;">
     <figure style="margin:0;">
       <img src="figures/figure report generation.png" alt="Segmentation overlay" style="width:100%; height:auto; object-fit:contain; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.10);" />
-      <figcaption style="font-size:0.95em; color:#333; margin-top:8px;">Segmentation overlay</figcaption>
     </figure>
-    <figure style="margin:0; text-align:center;">
+    <figure style="margin:0 auto; text-align:center; justify-self:center;">
       <img src="figures/figure results.png" alt="Measurement extraction" style="width:80%; max-width:360px; height:auto; object-fit:contain; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.10); display:block; margin:0 auto;" />
-      <figcaption style="font-size:0.95em; color:#333; margin-top:8px;">Measurement extraction</figcaption>
     </figure>
   </div>
 </div>

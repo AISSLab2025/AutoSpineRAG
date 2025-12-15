@@ -1,7 +1,24 @@
-<!-- Welcome banner (replace with project image if available) -->
-<p align="center">
-	<img alt="AutoSpineAI" src="docs/assets/spine-banner.png" width="780" />
-</p>
+<!-- Top hero gallery: 1 large image, 1 large image, then a 2-column row -->
+<div align="center" style="max-width:980px; margin:0 auto 18px;">
+  <figure style="margin:0 0 12px 0; width:100%">
+    <img src="figures/figure%202%20(3).png" alt="Hero - sagittal overview" style="width:100%; max-height:420px; object-fit:cover; border-radius:10px; box-shadow:0 6px 18px rgba(0,0,0,0.12);" />
+  </figure>
+
+  <figure style="margin:0 0 12px 0; width:100%">
+    <img src="figures/figure%202%20(2).png" alt="Hero - axial overview" style="width:100%; max-height:420px; object-fit:cover; border-radius:10px; box-shadow:0 6px 18px rgba(0,0,0,0.12);" />
+  </figure>
+
+  <div style="display:grid; grid-template-columns: repeat(2, 1fr); gap:12px;">
+    <figure style="margin:0;">
+      <img src="figures/figure%202%20(1).png" alt="Segmentation overlay" style="width:100%; height:220px; object-fit:cover; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.10);" />
+      <figcaption style="font-size:0.85em; color:#555; margin-top:6px;">Segmentation overlay</figcaption>
+    </figure>
+    <figure style="margin:0;">
+      <img src="figures/figure%202%20(1).svg" alt="Measurement extraction" style="width:100%; height:220px; object-fit:cover; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.10);" />
+      <figcaption style="font-size:0.85em; color:#555; margin-top:6px;">Measurement extraction</figcaption>
+    </figure>
+  </div>
+</div>
 
 # AutoSpineAI
 
@@ -144,6 +161,14 @@ To reproduce the baseline experiments, set up the environment, download the cura
 If you use AutoSpineAI in your research, please cite the project and any underlying methods you rely on. Example BibTeX entries for foundational components are listed below.
 
 ```
+@inproceedings{Salem2025AutoSpineAI,
+  title     = {AutoSpineAI: Lightweight Multimodal CAD Framework for Lumbar Spine MRI Assessments},
+  author    = {Salem, Saied and Habib, Afnan and Raza, Mukhlis and Al-Huda, Zaid and Al-maqtari, Omar and Ertuğrul, Bilal and Yıldırım, Özal and Gu, Yeong Hyeon and Al-antari, Mugahed A.},
+  booktitle = {IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI)},
+  year      = {2025},
+  publisher = {IEEE}
+}
+
 @article{Salem2025AIR,
   title   = {A Comprehensive Review of Intelligent Medical Image Analysis Frameworks and Emerging Trends},
   author  = {Salem, Saied and Habib, Afnan and others},
@@ -151,14 +176,6 @@ If you use AutoSpineAI in your research, please cite the project and any underly
   year    = {2025},
   publisher = {Springer},
   doi     = {10.1007/s10462-025-11185-y}
-}
-
-@inproceedings{Salem2025AutoSpineAI,
-  title     = {AutoSpineAI: Lightweight Multimodal CAD Framework for Lumbar Spine MRI Assessments},
-  author    = {Salem, Saied and Habib, Afnan and Raza, Mukhlis and Al-Huda, Zaid and Al-maqtari, Omar and Ertuğrul, Bilal and Yıldırım, Özal and Gu, Yeong Hyeon and Al-antari, Mugahed A.},
-  booktitle = {IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI)},
-  year      = {2025},
-  publisher = {IEEE}
 }
 
 ```

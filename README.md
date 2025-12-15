@@ -1,3 +1,4 @@
+[<img src="docs/assets/paper.svg" alt="Paper" width="26" style="vertical-align:middle; margin-right:6px;"/>](https://openreview.net/forum?id=RKOKlm4e4U#discussion)
 <!-- Top hero gallery: 1 large image, 1 large image, then a 2-column row -->
 <div align="center" style="max-width:980px; margin:0 auto 18px;">
   <figure style="margin:0 0 12px 0; width:100%">
@@ -19,11 +20,6 @@
 </div>
 
 # AutoSpineAI
-
-
-
-[![Status](https://img.shields.io/badge/status-experimental-orange.svg)](https://github.com)
-[![Python](https://img.shields.io/badge/python-%3E%3D3.8-blue.svg)](https://www.python.org/)
 
 AutoSpineAI integrates volumetric medical image segmentation with retrieval-augmented vision-language report generation to produce interpretable, clinically-aligned lumbar spine assessments and radiology-style reports.
 

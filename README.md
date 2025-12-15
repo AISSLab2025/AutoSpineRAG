@@ -1,9 +1,5 @@
 [![Paper](https://img.shields.io/badge/paper-OpenReview-6f42c1.svg)](https://openreview.net/forum?id=RKOKlm4e4U#discussion)
 <!-- Top hero gallery: 1 large image, 1 large image, then a 2-column row -->
-<div align="center" style="max-width:980px; margin:0 auto 18px;">
-  <figure style="margin:0 0 12px 0; width:100%">
-    <img src="figures\Multi Agentic Chatbot.gif" alt="Hero - sagittal overview" style="width:100%; max-height:420px; object-fit:cover; border-radius:10px; box-shadow:0 6px 18px rgba(0,0,0,0.12);" />
-  </figure>
 
 <div align="center" style="max-width:980px; margin:0 auto 18px;">
   <figure style="margin:0 0 12px 0; width:100%">

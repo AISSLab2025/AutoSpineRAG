@@ -1,0 +1,20 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb~ 
+
+# FastAPI
+*.log
+.env
+*.env
+
+# PyTorch
+__pycache__/
+*.pt
+*.pth
+artifact/
+artifact*/
+
+
+# Weights & Biases
+wandb/
+wandb-debug.log

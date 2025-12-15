@@ -8,14 +8,14 @@
     <img src="figures\figure architecture 2.png" alt="Hero - axial overview" style="width:100%; max-height:420px; object-fit:cover; border-radius:10px; box-shadow:0 6px 18px rgba(0,0,0,0.12);" />
   </figure>
 
-  <div style="display:grid; grid-template-columns: repeat(2, 1fr); gap:12px;">
+  <div style="display:grid; grid-template-columns: repeat(2, minmax(360px, 1fr)); gap:12px; align-items:start;">
     <figure style="margin:0;">
-      <img src="figures\figure report generation.png" alt="Segmentation overlay" style="width:100%; height:220px; object-fit:cover; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.10);" />
-      <figcaption style="font-size:0.85em; color:#555; margin-top:6px;">Segmentation overlay</figcaption>
+      <img src="figures/figure report generation.png" alt="Segmentation overlay" style="width:100%; height:auto; object-fit:contain; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.10);" />
+      <figcaption style="font-size:0.95em; color:#333; margin-top:8px;">Segmentation overlay</figcaption>
     </figure>
     <figure style="margin:0;">
-      <img src="figures\figure results.png" alt="Measurement extraction" style="width:100%; height:220px; object-fit:cover; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.10);" />
-      <figcaption style="font-size:0.85em; color:#555; margin-top:6px;">Measurement extraction</figcaption>
+      <img src="figures/figure results.png" alt="Measurement extraction" style="width:100%; height:auto; object-fit:contain; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.10);" />
+      <figcaption style="font-size:0.95em; color:#333; margin-top:8px;">Measurement extraction</figcaption>
     </figure>
   </div>
 </div>

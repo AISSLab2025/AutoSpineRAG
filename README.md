@@ -1,4 +1,5 @@
-> 📄 **[Read the Paper here](https://openreview.net/forum?id=RKOKlm4e4U#discussion)** [![Paper](https://img.shields.io/badge/paper-OpenReview-6f42c1.svg)](https://openreview.net/forum?id=RKOKlm4e4U#discussion)
+>[![Paper](https://img.shields.io/badge/paper-OpenReview-6f42c1.svg)](https://openreview.net/forum?id=RKOKlm4e4U#discussion)📄 **[Read the Paper here](https://openreview.net/forum?id=RKOKlm4e4U#discussion)**
+
 <!-- Top hero gallery: 1 large image, 1 large image, then a 2-column row -->
 
 ![Demo](figures\Multi Agentic Chatbot.gif)

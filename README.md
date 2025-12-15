@@ -2,7 +2,7 @@
 
 <!-- Top hero gallery: 1 large image, 1 large image, then a 2-column row -->
 
-![Demo](figures\Multi Agentic Chatbot.gif)
+![Demo](/figures/Multi%20Agentic%20Chatbot.gif)
 
 <div align="center" style="max-width:980px; margin:0 auto 18px;">
   <figure style="margin:0 0 12px 0; width:100%">

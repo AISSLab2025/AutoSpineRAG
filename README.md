@@ -160,18 +160,6 @@ If you use AutoSpineAI in your research, please cite the project and any underly
   author={Salem, Saied and Habib, Afnan and Raza, Mukhlis and Al-Huda, Zaid and Al-maqtari, Omar and Ertu{\u{g}}rul, Bilal and Y{\i}ld{\i}r{\i}m, {\"O}zal and Gu, Yeong Hyeon and Al-antari, Mugahed A},
   booktitle={IEEE-EMBS International Conference on Biomedical and Health Informatics 2025}
 }
-
-@article{al2025evaluating,
-  title={Evaluating AI-powered predictive solutions for MRI in lumbar spinal stenosis: a systematic review},
-  author={Al-Antari, Mugahed A and Salem, Saied and Raza, Mukhlis and Elbadawy, Ahmed S and B{\"u}t{\"u}n, Ertan and Aydin, Ahmet Arif and Aydo{\u{g}}an, Murat and Ertu{\u{g}}rul, Bilal and Talo, Muhammed and Gu, Yeong Hyeon},
-  journal={Artificial Intelligence Review},
-  volume={58},
-  number={8},
-  pages={221},
-  year={2025},
-  publisher={Springer}
-}
-
 ```
 **📚 Related Work**
 

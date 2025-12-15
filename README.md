@@ -150,7 +150,7 @@ To reproduce the baseline experiments, set up the environment, download the cura
 
 ---
 
-**Citations**
+**📚 Citations**
 
 If you use AutoSpineAI in your research, please cite the project and any underlying methods you rely on. Example BibTeX entries for foundational components are listed below.
 
@@ -173,6 +173,37 @@ If you use AutoSpineAI in your research, please cite the project and any underly
 }
 
 ```
+**📚 Related Work**
+
+```
+@article{al2025evaluating,
+  title={Evaluating AI-powered predictive solutions for MRI in lumbar spinal stenosis: a systematic review},
+  author={Al-Antari, Mugahed A and Salem, Saied and Raza, Mukhlis and Elbadawy, Ahmed S and B{\"u}t{\"u}n, Ertan and Aydin, Ahmet Arif and Aydo{\u{g}}an, Murat and Ertu{\u{g}}rul, Bilal and Talo, Muhammed and Gu, Yeong Hyeon},
+  journal={Artificial Intelligence Review},
+  volume={58},
+  number={8},
+  pages={221},
+  year={2025},
+  publisher={Springer}
+}
+
+@article{razamultimodal,
+  title={Multimodal Knowledge-Infused VLM for Respiratory Disease Prediction and Clinical Report Generation},
+  author={Raza, Mukhlis and Salem, Saied and Kwon, Hyunwook and Hussain, Jamil and Gu, Yeong Hyeon and Al-Antari, Mugahed A},
+  journal={IEEE journal of biomedical and health informatics}
+}
+
+@inproceedings{raza2025medxpert,
+  title={MedXpert-CAD: A Multimodal Multi-agentic System for Clinical Imaging Analysis via Model Context Protocol LLM-Driven Agentic Workflows},
+  author={Raza, Mukhlis and Salem, Saied and Habib, Afnan and Abdulmahmod, Osamah and Kwon, Hyunwook and Hussain, Jamil and Al-antari, Mugahed A},
+  booktitle={International Workshop on Agentic AI for Medicine},
+  pages={55--64},
+  year={2025},
+  organization={Springer}
+}
+
+```
+
 
 **Acknowledgements & Contact**
 

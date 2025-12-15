@@ -1,5 +1,7 @@
-[![Paper](https://img.shields.io/badge/paper-OpenReview-6f42c1.svg)](https://openreview.net/forum?id=RKOKlm4e4U#discussion)
+> 📄 **[Read the Paper here](https://openreview.net/forum?id=RKOKlm4e4U#discussion)** [![Paper](https://img.shields.io/badge/paper-OpenReview-6f42c1.svg)](https://openreview.net/forum?id=RKOKlm4e4U#discussion)
 <!-- Top hero gallery: 1 large image, 1 large image, then a 2-column row -->
+
+![Demo](figures\Multi Agentic Chatbot.gif)
 
 <div align="center" style="max-width:980px; margin:0 auto 18px;">
   <figure style="margin:0 0 12px 0; width:100%">

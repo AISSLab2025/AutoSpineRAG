@@ -1,20 +1,20 @@
 <!-- Top hero gallery: 1 large image, 1 large image, then a 2-column row -->
 <div align="center" style="max-width:980px; margin:0 auto 18px;">
   <figure style="margin:0 0 12px 0; width:100%">
-    <img src="figures/figure%202%20(3).png" alt="Hero - sagittal overview" style="width:100%; max-height:420px; object-fit:cover; border-radius:10px; box-shadow:0 6px 18px rgba(0,0,0,0.12);" />
+    <img src="figures\figure architecture 1.png" alt="Hero - sagittal overview" style="width:100%; max-height:420px; object-fit:cover; border-radius:10px; box-shadow:0 6px 18px rgba(0,0,0,0.12);" />
   </figure>
 
   <figure style="margin:0 0 12px 0; width:100%">
-    <img src="figures/figure%202%20(2).png" alt="Hero - axial overview" style="width:100%; max-height:420px; object-fit:cover; border-radius:10px; box-shadow:0 6px 18px rgba(0,0,0,0.12);" />
+    <img src="figures\figure architecture 2.png" alt="Hero - axial overview" style="width:100%; max-height:420px; object-fit:cover; border-radius:10px; box-shadow:0 6px 18px rgba(0,0,0,0.12);" />
   </figure>
 
   <div style="display:grid; grid-template-columns: repeat(2, 1fr); gap:12px;">
     <figure style="margin:0;">
-      <img src="figures/figure%202%20(1).png" alt="Segmentation overlay" style="width:100%; height:220px; object-fit:cover; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.10);" />
+      <img src="figures\figure report generation.png" alt="Segmentation overlay" style="width:100%; height:220px; object-fit:cover; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.10);" />
       <figcaption style="font-size:0.85em; color:#555; margin-top:6px;">Segmentation overlay</figcaption>
     </figure>
     <figure style="margin:0;">
-      <img src="figures/figure%202%20(1).svg" alt="Measurement extraction" style="width:100%; height:220px; object-fit:cover; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.10);" />
+      <img src="figures\figure results.png" alt="Measurement extraction" style="width:100%; height:220px; object-fit:cover; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.10);" />
       <figcaption style="font-size:0.85em; color:#555; margin-top:6px;">Measurement extraction</figcaption>
     </figure>
   </div>

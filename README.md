@@ -13,7 +13,7 @@
       <img src="figures/figure report generation.png" alt="Segmentation overlay" style="width:100%; height:auto; object-fit:contain; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.10);" />
     </figure>
     <figure style="margin:0 auto; text-align:center; justify-self:center;">
-      <img src="figures/figure results.png" alt="Measurement extraction" style="width:80%; max-width:360px; height:auto; object-fit:contain; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.10); display:block; margin:0 auto;" />
+      <img src="figures/figure results.png" alt="Measurement extraction" style="width:70%; max-width:360px; height:70%; object-fit:contain; border-radius:8px; box-shadow:0 4px 12px rgba(0,0,0,0.10); display:block; margin:0 auto;" />
     </figure>
   </div>
 </div>
